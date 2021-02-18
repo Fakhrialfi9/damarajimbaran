@@ -1,0 +1,96 @@
+/* Insert Your Color Codes Here */
+
+/* For changing background color  */
+
+.dot1,
+.navbar .navbar-nav li a:before,
+.upper_bar_connector,
+.tp-bullet:hover, .tp-bullet.selected, .swiper-pagination-bullet:hover, .swiper-pagination-bullet-active,
+.white_pagination .swiper-pagination-bullet-active,
+.cube_masonry_style_portfolio .cbp-l-filters-alignRight .cbp-filter-item.cbp-filter-item-active,
+.cube_fullwidth_style_portfolio .cbp-l-filters-buttonCenter .cbp-filter-item.cbp-filter-item-active,
+.customer_feedback_section .swiper-button-next:hover,
+.customer_feedback_section .swiper-button-prev:hover,
+.blog_slider_main .swiper-pagination-bullet-active,
+#area-main .buttons:before,
+#area-main .tag-cloud li a:hover,
+.blog-reply a.btn-rep:hover,
+.blog_meox .social-link li a:hover,
+.timline-year {
+    background: #008cba !important;
+}
+
+.bg_pink,
+.bg_before_pink:hover,
+.index-only-side-nav .menu_bars,
+.index-only-side-nav .menu_bars.active.right:hover span,
+.menu_bars:hover span,
+
+.picker-off:hover,
+.picker-off:focus,
+.timeline > li:hover .timeline-panel,
+.menu-detail-outer:hover .menu-detail,
+.medical_main_slider .swiper-arrows:hover,
+.gym_main_slider .swiper-arrows:hover{
+    background: #008cba;
+}
+
+/* For Changing Color */
+
+.pink_color,
+.navbar .navbar-nav li a:hover,
+.navbar .side-menu-button.actives .fa,
+.pushmenu .push_nav > li > a > span,
+.upper_inner_information_icons_inner li a:hover,
+.team_detail:hover h3,
+.expertise_block:hover .h3_pink,
+.blog_slide:hover a>h3,
+.contact_form_extra_inner:hover .form_icon,
+.contact_form_inner a:hover .form_text,
+#area-main ul.blog-author li a:hover,
+.blog_meox .morepost-wrap2 a:hover,
+.blog_meox .morepost-wrap2 .morepost:hover .fa-long-arrow-left,
+.morepost-wrap .morepost:hover .fa-long-arrow-left,
+.blog_meox .morepost-wrap2 .morepost:hover .fa-long-arrow-right,
+.morepost-wrap .morepost:hover .fa-long-arrow-right,
+.blog_meox ul.category li a .date,
+.blog_meox ul.category li a:hover,
+.blog_meox .blog-item blockquote,
+.countdown .page_content_body form a:hover i,
+.picker-off,
+.stats_section_inner:hover .stats_section_icon,
+.white-portfolio-link:hover,
+.timeline > li:hover .timeline-badge > a,
+.timeline > li > .timeline-panel:hover .timeline-badge > a ,
+.medical_main_slider .swiper-arrows{
+    color: #008cba !important;
+}
+
+/* For Changing Border Color */
+
+.pushmenu-right.pushmenu-open,
+.cube_masonry_style_portfolio .cbp-l-filters-alignRight .cbp-filter-item.cbp-filter-item-active,
+.cube_fullwidth_style_portfolio .cbp-l-filters-buttonCenter .cbp-filter-item.cbp-filter-item-active,
+.blog_meox .social-link li a:hover,
+.countdown .page_content_body form input:focus,
+.customer_feedback_section .swiper-pagination .swiper-pagination-bullet-active,
+.medical_main_slider .swiper-arrows,
+.gym_main_slider .swiper-arrows{
+    border-color: #008cba !important;
+}
+
+/* For Changing Css Shapes Border Colour */
+.timeline > li:hover .timeline-panel:after{
+    border-left-color: #008cba;
+    border-right-color: #008cba;
+}
+
+/* For Changing Background Color In RGBA Code */
+
+.cube_fullwidth_style_portfolio .cbp-l-grid-mosaic-flat .cbp-caption-activeWrap{
+    background: rgba(0, 140, 186,.9);
+}
+
+.cssload-lt:before, .cssload-rt:before, .cssload-lb:before, .cssload-rb:before{
+    border-top-color: rgb(0, 140, 186);
+}

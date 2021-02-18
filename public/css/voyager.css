@@ -1,0 +1,11 @@
+body, html {
+    font-family: 'Helvetica Neue', helvetica, sans-serif;
+}
+
+.app-footer {
+    display: none!important;
+}
+
+.voyager .side-menu.sidebar-inverse .navbar li:first-child.active>a {
+    color: #76838f!important;
+}

@@ -1,0 +1,70 @@
+/* Medical Main Slider */
+.medical_main_slider{
+    height: 100vh;
+}
+
+.medical_main_slider .swiper-slide{
+    text-align: center;
+    font-size: 18px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    background-size: cover !important;
+    background-position: center bottom!important;
+    color: #ffffff;
+}
+
+.medical_main_slider .swiper-arrows{
+    font-size: 20px;
+    background: transparent;
+    opacity: 1;
+    height: 40px;
+    width: 40px;
+    text-align: center;
+    line-height: 40px;
+    border-radius: 50px;
+    transition: 1s;
+    border: 2px solid;
+}
+
+.medical_main_slider .swiper-arrows:hover{
+    color: #FFFFFF !important;
+}
+
+.medical_main_slider .swiper-arrows {
+    color: #ffffff!important;
+    background: #2b914f!important;
+    border: 0!important;
+}
+
+
+.medical_main_slider .swiper-arrows:hover{
+    background: #232323 !important;
+    color: #FFFFFF !important;
+}
+
+/* Half Section Right */
+.medical-index .half_section_right .half_section_picture{
+    background:url("img/half_right_section.jpg") !important;
+    background-size: cover !important;
+    background-position: center !important;
+    background-repeat: no-repeat !important;
+}
+
+/* Medical Feedback */
+.medical-index .customer_feedback_section{
+    background: url("img/medi_feedback.jpg") !important;
+    background-size: cover !important;
+    background-position: center !important;
+    background-repeat: no-repeat !important;
+    background-attachment: fixed !important;
+}
+.swiper-pagination-bullet-active {
+    background: #2b914f!important;
+}

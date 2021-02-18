@@ -1,0 +1,10 @@
+.button,
+.mew_form .form_inputs,
+.form_textarea,
+.blog_img,
+.progress_bar .progress-bar,
+.progress_bar,
+.team_detail_inner,
+.swiper-arrows{
+    border-radius: 0 !important;
+}
